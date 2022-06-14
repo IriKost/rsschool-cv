@@ -1,1 +1,1 @@
-# rsschool-cv
+https://IriKost.github.io/rsschool-cv/cv

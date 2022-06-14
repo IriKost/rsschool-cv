@@ -1,0 +1,75 @@
+body{
+    background-color: #f1f1f1;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+  }
+
+.foto {
+    width: 200px;
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  
+  @media (max-width: 700px) {
+    .info {
+      text-align: center;
+      display: block;
+    }
+  }
+.info-text{
+    margin-left: 40px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color:blueviolet;
+}
+
+.bg-yellow{
+    background: #fff9dc;
+}
+
+.bg-green{
+    background: #e5ffe7;
+}
+
+.bg-red{
+    background: #ffe5e5;
+}
+
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.telegram {
+    margin-right: 20px;
+    padding-right: 10px;
+    
+}
+
